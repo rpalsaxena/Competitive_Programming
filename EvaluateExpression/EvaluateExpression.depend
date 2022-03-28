@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1648280566 source:d:\projects\cpp\evaluateexpression\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
