@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649049659 source:d:\projects\cpp\punch\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1649049683 source:d:\projects\cpp\punch\rahul.cpp
+	<iostream>
+	<bits/stdc++.h>
+
